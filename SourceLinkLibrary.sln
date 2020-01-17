@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceLinkLibrary", "SourceLinkLibrary\SourceLinkLibrary.csproj", "{88750B01-A340-4C9F-AD34-4AD935B860E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceLinkLibraryTests", "SourceLinkLibraryTests\SourceLinkLibraryTests.csproj", "{42D10552-1B3C-4E73-B020-0EAF6CAB37A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88750B01-A340-4C9F-AD34-4AD935B860E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88750B01-A340-4C9F-AD34-4AD935B860E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88750B01-A340-4C9F-AD34-4AD935B860E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88750B01-A340-4C9F-AD34-4AD935B860E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D10552-1B3C-4E73-B020-0EAF6CAB37A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D10552-1B3C-4E73-B020-0EAF6CAB37A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D10552-1B3C-4E73-B020-0EAF6CAB37A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D10552-1B3C-4E73-B020-0EAF6CAB37A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF7A4CC7-BB7F-4931-AC5B-0B46CB19CBE0}
+	EndGlobalSection
+EndGlobal
